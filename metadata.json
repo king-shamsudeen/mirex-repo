@@ -1,0 +1,6 @@
+{
+  "name": "MIREX SCENT | Haute Parfumerie",
+  "description": "Artisanal luxury fragrance house with direct WhatsApp inquiry and bespoke payment concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
